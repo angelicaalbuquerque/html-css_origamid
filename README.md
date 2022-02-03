@@ -29,7 +29,87 @@ Um dos projetos foi o meu site-currículo, [frontangie.dev](https://www.frontang
 
 ### Grade do curso
 
-Disponível [aqui](https://www.origamid.com/curso/html-e-css-para-iniciantes/).
+<details>
+  <summary>HTML e CSS para Iniciantes</summary>
+
+- HTML, CSS, JavaScript, Editor de Código e Browser
+</details>
+
+<details>
+  <summary>HTML e CSS Básico</summary>
+
+- Tags, Estrutura HTML, Editor, CSS Básico, Box Model, Display, Imagens
+</details>
+
+<details>
+  <summary>CSS Posicionamento</summary>
+
+- Margin, Grid, Flexbox, Position
+</details>
+
+<details>
+  <summary>HTML e Semântica</summary>
+
+- Semântica e Acessibilidade, Pontos de Referência, Listas, Navegação
+
+</details>
+
+<details>
+  <summary>CSS Propriedades</summary>
+
+- Unidades, Tipografia, Background, Pseudo Classes e Elementos
+
+</details>
+
+<details>
+  <summary>Responsivo</summary>
+
+- Media Queries, Grid, Object Fit e Max Width
+
+</details>
+
+<details>
+  <summary>Projeto Portfólio</summary>
+
+- Projeto criado do zero. Veja no ar: [frontangie.dev](https://www.frontangie.dev/)
+
+</details>
+
+<details>
+  <summary>Ferramentas</summary>
+
+- Linha de Comando, Git e Automação
+</details>
+
+<details>
+  <summary>Mais HTML e CSS</summary>
+
+- Formulários, Especificidade, Propriedades Customizadas e CSS Utilitário
+</details>
+
+<details>
+  <summary>Projeto Final</summary>
+
+- Projeto Bikcraft criado do zero
+</details>
+
+<details>
+  <summary>JavaScript Básico</summary>
+
+- Tipos de dados, manipular o dom, objetos e outros
+</details>
+
+<details>
+  <summary>JavaScript Projeto</summary>
+
+- Link ativo, mostrar/esconder conteúdo, galeria de imagens, plugins e mais
+</details>
+
+<details>
+  <summary>Produção</summary>
+
+- Domínio, hospedagem, servidor, formulário
+</details>
 
 ## 📬 Entre em contato!
 
