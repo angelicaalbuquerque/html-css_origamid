@@ -1,0 +1,39 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+span {
+  color: #febe01;
+}
+
+.card {
+  background-color: #111;
+  border-radius: 5px;
+  padding: 30px;
+  margin: 20px;
+  color: whitesmoke;
+}
+
+.btn-comprar {
+  color: #332200;
+  background-color: #febe01;
+  border-radius: 5px;
+  border: none;
+  padding: 15px;
+
+  font-weight: bold;
+  font-size: 1rem;
+}
