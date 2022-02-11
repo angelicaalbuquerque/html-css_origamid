@@ -25,7 +25,7 @@ O curso de "HTML e CSS" da Origamid, lançado pela Origamid, foi feito para quem
 
 Aproveitei a oportunidade para me atualizar/aprender uma abordagem diferente, praticar bastante e implementar dois projetos responsivos e reais, usando CSS Flexbox e Grid Layout para a construção, totalmente do zero.
 
-Um dos projetos foi o meu site-currículo, [frontangie.dev](https://www.frontangie.dev/).
+Um dos projetos foi o meu site-currículo, disponível em: [frontangie.dev](https://www.frontangie.dev/).
 
 ### Grade do curso
 
