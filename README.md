@@ -13,8 +13,8 @@
 
 <p align="center">
 <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=9834f7">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/js-beginners_microsoft?color=9834f7">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/js-beginners_microsoft?color=9834f7">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/html-css_origamid?color=9834f7">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/html-css_origamid?color=9834f7">
 </p>
 
 ---
