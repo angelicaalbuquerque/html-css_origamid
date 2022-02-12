@@ -31,4 +31,5 @@ h2 {
   grid-template-columns: auto auto;
   gap: 20px;
   justify-content: space-evenly;
+  place-content: center; /*align-content e justify-content*/
 }
