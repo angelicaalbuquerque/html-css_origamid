@@ -4,12 +4,12 @@
   grid-template-columns: 1fr 1fr;
 }
 
-.foto {
+/* .foto {
   grid-column: 1 / -1;
-}
+} */
 
-.descricao {
-  grid-column: 1 / -1;
+.titulo {
+  grid-column: 2;
 }
 
 .comprar {
@@ -22,6 +22,7 @@
 }
 
 .preco {
+  place-self: start end;
   background-color: #ddd;
   padding: 5px 10px;
   border-radius: 4px;
