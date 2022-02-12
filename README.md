@@ -1,5 +1,5 @@
 <h2 align="center">
-  HTML e CSS | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/origamid-white.svg">
+  HTML e CSS | <img alt="badge origamid" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/origamid-white.svg">
 </h2>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 📚 Sobre
 
-O curso de "HTML e CSS" da Origamid, lançado pela Origamid, foi feito para quem deseja entrar ou já está no mercado e desenvolvimento Front End/criação de sites.
+O curso de "HTML e CSS" da Origamid foi feito para quem deseja entrar ou já está no mercado e desenvolvimento Front End/criação de sites.
 
 Aproveitei a oportunidade para me atualizar/aprender uma abordagem diferente, praticar bastante e implementar dois projetos responsivos e reais, usando CSS Flexbox e Grid Layout para a construção, totalmente do zero.
 
