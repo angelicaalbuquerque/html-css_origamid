@@ -1,0 +1,21 @@
+.flex {
+  background-color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  height: 100vh;
+  place-content: center;
+  /* justify-content: center;
+  align-content: center; */
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+  background: #e7e7e7;
+  border: 1px solid #d7d7d7;
+  padding: 20px;
+  margin: 0px;
+}
