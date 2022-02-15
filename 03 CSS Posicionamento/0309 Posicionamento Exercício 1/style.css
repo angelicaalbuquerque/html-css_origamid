@@ -44,3 +44,8 @@ p {
   color: #000;
   text-transform: uppercase;
 }
+
+.conteudo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
