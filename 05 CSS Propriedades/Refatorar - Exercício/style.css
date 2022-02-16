@@ -50,10 +50,12 @@ p {
   border-radius: 4px;
   color: #000;
   text-transform: uppercase;
+  border: 2px solid transparent;
+  transition: 0.3s;
 }
 
 .menu a:hover {
-  border: 1px solid #900;
+  border-color: #900;
   cursor: pointer;
 }
 
@@ -97,6 +99,11 @@ p {
   text-transform: uppercase;
 }
 
+.botao:hover {
+  background: #900;
+  transition: 0.3s;
+}
+
 .subtitulo {
   font-size: 4rem;
   text-transform: uppercase;
@@ -117,6 +124,11 @@ p {
   grid-template-columns: auto 1fr;
   gap: 10px 20px; /*linha e coluna*/
   padding: 20px;
+  border-left: 4px solid transparent;
+}
+
+.vantagens-item:hover {
+  border-left: 4px solid #900;
 }
 
 .vantagens-item:nth-child(odd) {
