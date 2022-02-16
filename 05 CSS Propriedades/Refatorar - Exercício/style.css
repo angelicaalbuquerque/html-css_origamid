@@ -70,18 +70,14 @@ p {
   padding: 40px;
   text-align: right;
   position: relative;
-
   display: grid;
   align-items: center;
   gap: 20px;
   justify-items: end;
 }
 
-.introducao h1 {
-  font-size: 2rem;
-}
-
-.detalhe {
+.introducao::before {
+  content: "";
   width: 60px;
   height: 4px;
   background: #e21;
@@ -89,6 +85,10 @@ p {
   position: absolute;
   top: 30px;
   right: -30px;
+}
+
+.introducao h1 {
+  font-size: 2rem;
 }
 
 .botao {
