@@ -21,7 +21,7 @@
 
 ## 📚 Sobre
 
-O curso de "HTML e CSS" da Origamid foi feito para quem deseja entrar ou já está no mercado e desenvolvimento Front End/criação de sites.
+O curso de HTML e CSS da Origamid foi feito para quem deseja entrar ou já está no mercado e desenvolvimento Front End/criação de sites.
 
 Aproveitei a oportunidade para me atualizar/aprender uma abordagem diferente, praticar bastante e implementar dois projetos responsivos e reais, usando CSS Flexbox e Grid Layout para a construção, totalmente do zero.
 
