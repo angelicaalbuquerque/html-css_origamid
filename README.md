@@ -42,7 +42,7 @@ Um dos projetos foi o meu site-currículo, disponível em: [frontangie.dev](http
 </details>
 
 <details>
-  <summary>CSS Posicionamento</summary>
+  <summary>CSS Posicionamentos</summary>
 
 - Margin, Grid, Flexbox, Position
 </details>
