@@ -124,8 +124,8 @@ Um dos projetos foi o meu site-currículo, disponível em: [frontangie.dev](http
     <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/email.svg" alt="Email" height="50" width="50" />
   </a>
   <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="Twitter" height="50" width="50" />
-    </a>
+    <!-- <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="Twitter" height="50" width="50" />
+    </a> -->
 </p>
 
 ---
